@@ -1,39 +1,39 @@
 ++SCORES in 2013::
 I’m writing this in 2018. 5 years ago was 2013. I was 17.;;
-1. Physically: ;; 
-2. Mentally: ;;
-3. Emotionally: ;;
-4. Attractiveness: ;;
-5. Relationships: ;;
-6. Living environment: ;;
-7. Socially: ;;
-8. Spiritually: ;;
-9. Career: ;;
-10. Financially: ;;
+1. Physically: 6;;
+2. Mentally: 5;;
+3. Emotionally: 5;;
+4. Attractiveness: 7;;
+5. Relationships: 4;;
+6. Living environment: 7;;
+7. Socially: 4;;
+8. Spiritually: 3;;
+9. Career: 0;;
+10. Financially: 0;;
 
-++SCORE in 2018-AGE 22::
-1. Physically: ;; 
-2. Mentally: ;;
-3. Emotionally: ;;
-4. Attractiveness: ;;
-5. Relationships: ;;
-6. Living environment: ;;
-7. Socially: ;;
-8. Spiritually: ;;
-9. Career: ;;
-10. Financially: ;;
+++SCORE in January 2018-AGE 22::
+1. Physically: 6;;
+2. Mentally: 5;;
+3. Emotionally: 5;;
+4. Attractiveness: 6;;
+5. Relationships: 5;;
+6. Living environment: 8;;
+7. Socially: 4;;
+8. Spiritually: 4;;
+9. Career: 4;;
+10. Financially: 4;;
 
 ++SCORE in 2021-AGE 25::
-1. Physically: ;; 
-2. Mentally: ;;
-3. Emotionally: ;;
-4. Attractiveness: ;;
-5. Relationships: ;;
-6. Living environment: ;;
-7. Socially: ;;
-8. Spiritually: ;;
-9. Career: ;;
-10. Financially: ;;
+1. Physically: 9;;
+2. Mentally: 10;;
+3. Emotionally: 9;;
+4. Attractiveness: 10;;
+5. Relationships: 10;;
+6. Living environment: 8;;
+7. Socially: 9;;
+8. Spiritually: 10;;
+9. Career: 9;;
+10. Financially: 10;;
 
 ++PERSONAL DEVELOPMENT GOALS::
 Mentally incredibly strong. Confident. Emotionally intelligent. Caring. Can cook amazing meals. Extreme self discipline. Able to fast for an entire 2 days. Ability to read Chinese fluently. Always in touch with family and friends. Responds within five minutes of seeing text. Have fought and won a Muay Thai fight. Never depressed again. Brainwashed self out of depression. Charming. Strong sense of self-worth. Wrong ethics. Can laugh at self. Peak physical shape 24/7. Regular faster. Conversationalist. Values people. When set a goal, will achieve it. Will make an excellent spouse. Beautiful luscious hair.;;
@@ -47,8 +47,7 @@ Earn a million a year. Start my own company. Own real estate. Retire when I’m 
 
 
 ++TOY/ADVENTURE GOALS::
-Beautiful stylish modern house. Tesla. Stylish clothes. See and hike where northern lights are. Brazil. Windsurf in Mediterranean. Powerful home computer for doing coding work. Japan. 
+Beautiful stylish modern house. Tesla. Stylish clothes. See and hike where northern lights are. Brazil. Windsurf in Mediterranean. Powerful home computer for doing coding work. Japan.
 
 ++CONTRIBUTE GOALS::
-Save a life. Depression support groups. Motivational videos and talks. Games that help learning or programs with gamification. Deliver meals to doorstep. 
-
+Save a life. Depression support groups. Motivational videos and talks. Games that help learning or programs with gamification. Deliver meals to doorstep.
